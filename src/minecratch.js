@@ -241,7 +241,7 @@
     };
 
     // Register the extension
-    ScratchExtensions.register('Mycratch', descriptor, ext);
+    ScratchExtensions.register('マイクラッチ', descriptor, ext);
 
     mc_init( "localhost" );
 
